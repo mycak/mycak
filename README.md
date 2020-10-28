@@ -1,8 +1,16 @@
-### Hi there 👋
+### Hello there ! I'm Piotr Myszkiewicz ! 👋🤓👋🤓
+<a href="https://ibb.co/v3QKPR3"><img src="https://i.ibb.co/ZBYk87B/Artboard-1.png" alt="Artboard-1" border="0"></a>
+## Check out my portfolio  <a href="https://distracted-babbage-ab739a.netlify.app/">Here!</a>
+<br>🏓 I enjoy working with include ReactJS, JavaScript, GSAP, Gatsby.
+<br>🌱 I’m currently learning advenced ReactJS.
+<br>👯 I’m looking to collaborate.
+<br>💬 Ask me about something: mycak@wp.pl
 
 <!--
 **mycak/mycak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+Hello ! I'm Piotr !
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
