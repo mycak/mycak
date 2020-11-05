@@ -1,6 +1,11 @@
 ### Hello there ! I'm Piotr Myszkiewicz ! 👋🤓👋🤓
 <a href="https://ibb.co/v3QKPR3"><img src="https://i.ibb.co/ZBYk87B/Artboard-1.png" alt="Artboard-1" border="0"></a>
 ## Check out my portfolio  <a href="https://distracted-babbage-ab739a.netlify.app/">Here!</a>
+
+<br>🔭 I’m currently working on <a href="https://hopeful-bassi-ed99b4.netlify.app/">Dj Pepe-artist Website</a>
+<br>🔭 I work as a volunteer for <a href="https://pl-pl.facebook.com/pg/neuronfoundation/posts/?ref=page_internal">Neuron Foundation</a> in Front-End Developer Team.
+
+
 <br>🏓 I enjoy working with include ReactJS, JavaScript, GSAP, Gatsby.
 <br>🌱 I’m currently learning advenced ReactJS.
 <br>👯 I’m looking to collaborate.
