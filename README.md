@@ -6,7 +6,7 @@
 <br>🔭 I work as a volunteer for <a href="https://www.facebook.com/Smartoakprojects/">Smart Oak Projects</a> in Front-End Developer Team.
 
 
-<br>🏓 I enjoy working with include ReactJS, JavaScript, GSAP, Gatsby.
+<br>🏓 I enjoy working with  diffrent technologies including ReactJS, JavaScript, GSAP, Gatsby.
 <br>🌱 I’m currently learning advanced ReactJS.
 <br>👯 I’m looking to collaborate.
 <br>💬 Ask me about something: mycak@wp.pl
