@@ -1,4 +1,4 @@
-### Hello there ! I'm Piotr Myszkiewicz ! 😄😄
+### Hello there ! I'm Piotr Myszkiewicz ! ⚡⚡
 <a href="https://ibb.co/v3QKPR3"><img src="https://i.ibb.co/ZBYk87B/Artboard-1.png" alt="Artboard-1" border="0"></a>
 ## Check out my portfolio  <a href="https://distracted-babbage-ab739a.netlify.app/">Here!</a>
 
