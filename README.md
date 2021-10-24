@@ -2,12 +2,9 @@
 <a href="https://ibb.co/v3QKPR3"><img src="https://i.ibb.co/ZBYk87B/Artboard-1.png" alt="Artboard-1" border="0"></a>
 ## Check out my portfolio  <a href="https://distracted-babbage-ab739a.netlify.app/">Here!</a>
 
-<br>🔭 I’m currently working on <a href="https://hopeful-bassi-ed99b4.netlify.app/">El Toro-artist Website</a>
-<br>🔭 I work as a volunteer for <a href="https://www.facebook.com/Smartoakprojects/">Smart Oak Projects</a> in Front-End Developer Team.
 
-
-<br>🏓 I enjoy working with  diffrent technologies including ReactJS, JavaScript, GSAP, Gatsby.
-<br>🌱 I’m currently learning advanced ReactJS.
+<br>🏓 I enjoy working with  diffrent technologies including ReactJS, NextJS, Apollo, JavaScript, GSAP, Gatsby, .
+<br>🌱 I’m currently learning Vue.
 <br>👯 I’m looking to collaborate.
 <br>💬 Ask me about something: mycak@wp.pl
 <br>😄 You can call me: +48 505 184 510
