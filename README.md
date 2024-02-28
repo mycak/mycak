@@ -2,7 +2,7 @@
 🚀 Frontend Developer <br />
 ❤️ React + Next.js <br />
 💻 Portfolio - <a>https://distracted-babbage-ab739a.netlify.app</a> <br />
-🌳 2.5+ exp <br />
+🌳 3.5+ exp <br />
 🌆 Warsaw <br />
 
 # Tech Stack
