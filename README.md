@@ -1,8 +1,8 @@
 # Hello there 👋 I'm Piotr Myszkiewicz !
 🚀 Frontend Developer <br />
-❤️ React + Next.js <br />
+❤️ React + Next.js / React Native / Vue / Node.js <br />
 💻 Portfolio - <a>https://distracted-babbage-ab739a.netlify.app</a> <br />
-🌳 3.5+ exp <br />
+🌳 4.5+ exp <br />
 🌆 Warsaw <br />
 
 # Tech Stack
