@@ -1,12 +1,12 @@
-# Hello there 👋 I'm Piotr Myszkiewicz !
+# Hello there 👋 I'm Piotr.
 🚀 Frontend Developer <br />
-❤️ React + Next.js / React Native / Vue / Node.js <br />
+❤️ React / Vite / Shadcn / Tanstack / Next.js / React Native / Vue / Node.js <br />
 💻 Portfolio - <a>https://distracted-babbage-ab739a.netlify.app</a> <br />
 🌳 5y+ exp <br />
 🌆 Warsaw <br />
 
-# CURRENTLY DEVELOPING 
-<a href="https://futbolovo.netlify.app/"><b>>>>>>>> Futbolovo <<<<<<<</b></a> 
+# Owner, designer, developer and parent project of:
+<a href="https://futbolovo.netlify.app/"><b>Futbolovo/b></a> 
 
 # Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
